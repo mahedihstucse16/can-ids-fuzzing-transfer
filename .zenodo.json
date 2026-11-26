@@ -1,0 +1,14 @@
+{
+  "title": "Fuzzing Attacks in Training Data Induce Cross-Vehicle False Alarms in Controller Area Network Intrusion Detectors: A Controlled Case Study - analysis code",
+  "upload_type": "software",
+  "license": "MIT",
+  "creators": [
+    {"name": "Hassan, Md. Mahedi", "affiliation": "Daffodil International University"},
+    {"name": "Azad, Rahat Uddin", "affiliation": "Daffodil International University"},
+    {"name": "Alam, Md. Rashedul", "affiliation": "Daffodil International University"},
+    {"name": "Elahe, Md. Fazla", "affiliation": "Daffodil International University"},
+    {"name": "Sadi, A.H.M. Saifullah", "affiliation": "Daffodil International University"},
+    {"name": "Sayeed, Md Shohel", "affiliation": "Multimedia University"}
+  ],
+  "keywords": ["CAN bus", "intrusion detection", "cross-vehicle generalisation", "shortcut learning"]
+}

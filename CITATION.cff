@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Fuzzing Attacks in Training Data Induce Cross-Vehicle False Alarms in Controller Area Network Intrusion Detectors: A Controlled Case Study - analysis code"
+authors:
+  - family-names: Hassan
+    given-names: Md. Mahedi
+  - family-names: Azad
+    given-names: Rahat Uddin
+  - family-names: Alam
+    given-names: Md. Rashedul
+  - family-names: Elahe
+    given-names: Md. Fazla
+  - family-names: Sadi
+    given-names: A.H.M. Saifullah
+  - family-names: Sayeed
+    given-names: Md Shohel
+license: MIT
+repository-code: "https://github.com/mahedihstucse16/can-ids-fuzzing-transfer"
