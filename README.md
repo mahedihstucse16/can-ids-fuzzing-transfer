@@ -98,7 +98,3 @@ Its results are written in the checkpoint format read by `rev3_aggregate.py`.
 | `dedup` | Shared 891,068-frame tail of the Car-Hacking captures counted once |
 | `explain` | Monte Carlo Shapley, impurity and permutation importance |
 
-## Licence and citation
-
-MIT licence (see `LICENSE`). Please cite the paper; citation metadata are in
-`CITATION.cff`. An archived copy of each release is deposited on Zenodo.
